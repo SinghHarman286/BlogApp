@@ -1,0 +1,23 @@
+i.icon {
+	font-size: 2.0em;
+}
+
+#title {
+	margin-top: 5.0em;
+}
+
+#new {
+	margin-top: 5.0em;
+}
+
+.ui.main {
+	margin-top: 7.0em;
+}
+
+#select{
+	margin-top: 2em;
+}
+
+#inline {
+	display: inline;
+}
